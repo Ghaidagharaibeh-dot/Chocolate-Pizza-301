@@ -1,0 +1,163 @@
+body {
+    box-sizing: border-box;
+}
+
+header {
+    margin-left: 55px;
+    width: 90%;
+}
+
+div {
+    box-sizing: border-box;
+    width: 100%;
+    height: 20%;
+    display: inline-block;
+}
+
+#firstheadsec {
+    box-sizing: border-box;
+    width: 30%;
+}
+
+#mainsection {
+    position: relative;
+    right: 45px;
+}
+
+h1 {
+    padding-left: 70px;
+    padding-bottom: 30px;
+    font-size: xx-large;
+    font-family: 'Lobster', cursive;
+}
+
+h5 {
+    position: relative;
+    left: 70px;
+    bottom: 30px;
+    font-size: 7.5px;
+}
+
+div #firstheadsec img {
+    position: relative;
+    left: 27px;
+    top: 42px;
+}
+
+#secondheadsec {
+    float: right;
+    position: relative;
+    top: -55px;
+    right: 45px;
+}
+
+main {
+    margin-top: 20px;
+    margin-left: 55px;
+    width: 90%;
+}
+
+main img {
+    width: 100%;
+    height: 500px;
+}
+
+.container {
+    font-size: 25px;
+    position: relative;
+    text-align: center;
+    color: rgb(65, 52, 52);
+    text-align: justify;
+    font-family: Lobster;
+}
+
+#firstul {
+    position: absolute;
+    top: 50px;
+    left: 200px;
+}
+
+#secondul {
+    position: absolute;
+    top: 50px;
+    right: 200px;
+}
+
+footer {
+    box-sizing: border-box;
+    margin-left: 55px;
+    width: 90%;
+    height: 20%;
+}
+
+footer img {
+    position: relative;
+    left: 27px;
+    top: 5px;
+}
+
+footer img,
+h4 {
+    display: inline;
+}
+
+h4 {
+    position: relative;
+    bottom: 38px;
+    left: 30px;
+    font-size: 26px;
+}
+
+h6 {
+    position: relative;
+    bottom: 38px;
+    left: 110px;
+    font-size: 15px;
+}
+
+button {
+    size: 100px;
+    font-size: 20px;
+    position: relative;
+    float: right;
+    bottom: 55px;
+    right: 20px;
+    color: seashell;
+    background-color: rgb(102, 13, 13);
+}
+
+h6 {
+    top: 10px;
+    left: 400px;
+}
+
+hr {
+    width: 100%;
+    border-width: 4px;
+    color: gray;
+    background-color: gray;
+    height: 12px;
+    border: 0;
+    box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.5);
+}
+
+footer #end img {
+    top: -38px;
+    left: 49%;
+    position: absolute;
+}
+
+footer #end {
+    position: relative;
+}
+
+p {
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+}
+
+#description {
+    top: 50px;
+    right: 30px;
+    position: absolute;
+}
